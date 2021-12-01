@@ -18,10 +18,10 @@
 
 ## Часть 2
 1. MA-plot
-![image](./images/ma.png)
+![image](./images/map.png)
 
 2. Тепловая карта
-![image](./images/map.png)
+![image](./images/ma.png)
 ![image](./images/ma2.png)
 
 3. Normalized counts в 3х генах, которые наиболее значимо поменяли свою экспрессию
